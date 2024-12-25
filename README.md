@@ -88,7 +88,8 @@ Key highlights:
 ---
 
 ## References
-This project references multiple works on text summarization, multi-modal approaches, and evaluation metrics. For detailed citations, refer to the [project report](https://github.com/Fardeen210/Text_summarization_report.pdf).
+This project references multiple works on text summarization, multi-modal approaches, and evaluation metrics. For detailed citations, refer to the [project report](https://github.com/Fardeen210/Text-Summarization/blob/main/Text_summarization_report.pdf).
+
 
 ---
 ## Contact
